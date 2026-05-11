@@ -10,14 +10,6 @@
 
   ---
 
-  ### 📊 GitHub Statistics
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbas829&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas829&layout=compact&theme=tokyonight&hide_border=true)
-
-  ---
-
   ### 🔥 Featured Projects
 
   **🌐 [Streamlit Apps Collection](https://github.com/abbas829/Streamlit_Apps)**  
